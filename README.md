@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Beast</h1>
-<h3 align="center">A passionate frontend & backend developer from Egypt</h3>
+<h3 align="center">A passionate fullstack & Software developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-beast&label=Profile%20views&color=0e75b6&style=flat" alt="m-beast" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-beast" alt="m-beast" /></a> </p>
 
-- 🔭 I’m currently working on **Renewable Energy**
+- 🔭 I’m currently working on **TCP Database Manager**
 
 - 🌱 I’m currently learning **Frameworks**
 
