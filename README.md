@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-beast" alt="m-beast" /></a> </p>
 
-- 🔭 I’m currently working on **Rust Servers Browser**
-
 - 🌱 I’m currently learning **Frameworks**
 
 - ⚡ Fun fact **I think I am funny**
