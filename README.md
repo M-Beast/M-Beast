@@ -1,27 +1,198 @@
-<h1 align="center">Hi 👋, I'm Beast</h1>
-<h3 align="center">A passionate Software developer from Egypt</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-beast&label=Profile%20views&color=0e75b6&style=flat" alt="m-beast" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:00c3ff&text=Beast&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Systems%20Builder%20•%20Game%20Tools&descAlignY=60"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-beast" alt="m-beast" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00C3FF&center=true&vCenter=true&width=900&lines=Building+cool+stuff+for+gamers+🎮;Backend+%26+Systems+Developer+💻;Tools+%26+Automation+🚀;Web+Apps+•+Desktop+Apps+•+APIs;Turning+ideas+into+real+projects+⚡" />
 
-- 🌱 I’m currently learning **Frameworks**
+<br/>
+<br/>
 
-- ⚡ Fun fact **I think I am funny**
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF4OW5sN3F3aHk1bWRjc3g4a2FoZWY2aDBsMzVqN2MwZ3I5c2ViYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Discord: beast.1
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/beast335"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beast335" /></a></p><br><br><br>
+# 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-beast&show_icons=true&locale=en" alt="m-beast" /></p>
+```js
+const beast = {
+    code: ["JavaScript", "TypeScript", "Python", "C#", "C++"],
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-beast&" alt="m-beast" /></p>
+    technologies: {
+        frontend: ["Next.js", "React", "TailwindCSS"],
+        backend: ["Node.js", "Express", "Redis", "MongoDB"],
+        desktop: ["Tauri"],
+        devops: ["Docker", "Linux", "Nginx"]
+    },
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-beast&show_icons=true&locale=en&layout=compact" alt="m-beast" /></p>
+    currentFocus: [
+        "High performance backend systems",
+        "Realtime systems",
+        "Automation",
+        "Game server tooling",
+        "Security & infrastructure"
+    ],
+
+    funFact: "I build tools that solve annoying problems 👀"
+};
+```
+
+<div align="center">
+
+⚡ I love building systems that feel fast, clean, and useful.
+
+🎮 Most of my projects are focused around gaming communities, automation, web platforms, and desktop tools.
+
+🛠️ I enjoy reverse engineering problems, optimizing workflows, and creating projects that actually help people.
+
+</div>
+
+---
+
+# ⚔️ Tech Arsenal
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,c,bash" />
+
+## 🧩 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flutter,tauri" />
+
+## ⚙️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,docker,linux,nginx" />
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,cloudflare" />
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+<div align="center">
+
+| 🧩 Project Type | ⚡ Description |
+|---|---|
+| 🎮 Gaming Tools | advanced systems, automation, moderation tools |
+| 💻 Desktop Apps | High performance Tauri applications |
+| 🌐 Web Platforms | Dashboards, APIs, realtime systems |
+| 🔐 Security | Infrastructure hardening & exploit prevention |
+| 🤖 Automation | Bots, monitoring systems, background workers |
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+## 🎮 Server Infrastructure
+
+> Large scale backend systems for game servers including:
+
+- ⚡ Realtime management
+- 📡 caching & based communication systems
+- 🔒 Distributed locks & server claiming
+- 🧠 Automated monitoring & analytics
+- 🌍 Web dashboards for server management
+
+---
+
+## 🖥️ Desktop Utilities
+
+> Fast desktop applications built with Tauri.
+
+Features I focus on:
+
+- ⚡ Native-like performance
+- 🧼 Clean UI/UX
+- 🔧 Real world utility
+- 🧠 Smart automation
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M-Beast&theme=transparent&hide_border=true&stroke=00c3ff&ring=00c3ff&fire=00c3ff&currStreakLabel=00c3ff" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Beast&theme=github_dark" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Beast/M-Beast/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Beast/M-Beast/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/M-Beast/M-Beast/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# 🌌 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Beast&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/M-Beast">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="ttps://discord.com/users/685244465983520926">
+<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</a>
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=M-Beast&style=for-the-badge&color=00c3ff" />
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+> “Good systems feel invisible. Great systems feel effortless.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:00c3ff"/>
+
+</div>
